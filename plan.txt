@@ -2,7 +2,8 @@ header
 main
     HOME
     ABOUT
-    SKILLLS AND EXPPERIENCE
+    SKILLLS 
+    EXPPERIENCE
     PORTFOLIO
     CONTACT
 
